@@ -1,9 +1,9 @@
 [   
     {
     "kernelSource": {
-      "name": "android_device_xiaomi_cannon",
-      "repo": "https://gitlab.com/LinkBoi00/android_device_xiaomi_cannon",
-      "branch": "sc-v2",
+      "name": "android_kernel_xiaomi_cannon",
+      "repo": "https://github.com/xiaomi-mt6853-devs/android_kernel_xiaomi_cannon",
+      "branch": "lineage-20",
       "device": "cannon"
     },
     "withKernelSU": true,
